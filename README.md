@@ -1,6 +1,6 @@
 # AfriLend
 
-A small lending dApp (Hedera-based) for coordinating micro-loans and lender pools.
+A micro lending dApp (Hedera-based) for coordinating micro-loans and lender pools.
 
 This repository contains smart contracts, a frontend, and a backend server for AfriLend.
 
